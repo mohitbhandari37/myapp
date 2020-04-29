@@ -1,1 +1,4 @@
 hotfix document for branch hotfix02
+this is the hotfix document
+:wq
+added hotfix document
